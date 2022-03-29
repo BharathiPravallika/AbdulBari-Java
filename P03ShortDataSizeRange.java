@@ -1,5 +1,5 @@
 import java.lang.*;
-class ShortDataSizeRange 
+class P03ShortDataSizeRange 
 {
     public static void main(String args[])
     {
