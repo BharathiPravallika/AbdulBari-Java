@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class Main{
+class P32LeapYear{
     public static void main(String args[]){
         int year;
         Scanner sc = new Scanner(System.in);
