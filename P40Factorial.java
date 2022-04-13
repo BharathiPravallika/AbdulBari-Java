@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class Main{
+class P40Factorial{
     public static void main(String args[]){
         int n, i, fact = 1;
         Scanner sc = new Scanner(System.in);
