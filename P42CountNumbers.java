@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class 42CountNumbers 
+class P42CountNumbers 
 {
     public static void main(String args[]){
         int n, count = 0;
