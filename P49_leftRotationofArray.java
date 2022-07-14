@@ -16,3 +16,7 @@ public class Main{
         System.out.println("");
     }
 }
+
+
+//OP:5,9,6,10,12,7,3,5,4,2,
+//op:9,6,10,12,7,3,5,4,2,5,
